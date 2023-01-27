@@ -1,6 +1,6 @@
 # GaussianMixtureUniversality
 
-Repository for the paper [*Is Gaussian data all you need? The extents and limits of universality in high-dimensional generalized linear estimation*](https://arxiv.org/abs/). 
+Repository for the paper [*Is Gaussian data all you need? The extents and limits of universality in high-dimensional generalized linear estimation*](https://arxiv.org/abs/xxxxx). 
 
 <p float="left">
   <img src="https://github.com/lucpoisson/SubspaceClustering/blob/main/Figures/subspace2.png" height="470" />
@@ -22,5 +22,5 @@ The notebooks are self-explanatory and the repository will be updated with clean
 ## Reference
 
 [1]*Is Gaussian data all you need? The extents and limits of universality \\ in high-dimensional generalized linear estimation*,
-Luca Pesce, Florent Krzakala, Bruno Loureiro, Ludovic Stephan [arXiv: 2205.](https://arxiv.org/abs/)[stat.ML]
+Luca Pesce, Florent Krzakala, Bruno Loureiro, Ludovic Stephan [arXiv: xxxx.xxxx ](https://arxiv.org/abs/)[stat.ML]
 
