@@ -21,6 +21,6 @@ The notebooks are self-explanatory and the repository will be updated with clean
 
 ## Reference
 
-[1]*Is Gaussian data all you need? The extents and limits of universality \\ in high-dimensional generalized linear estimation*,
+[1]*Is Gaussian data all you need? The extents and limits of universality in high-dimensional generalized linear estimation*,
 Luca Pesce, Florent Krzakala, Bruno Loureiro, Ludovic Stephan [arXiv: xxxx.xxxx ](https://arxiv.org/abs/)[stat.ML]
 
