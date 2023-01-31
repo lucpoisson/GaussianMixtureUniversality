@@ -3,7 +3,7 @@
 Repository for the paper [*Is Gaussian data all you need? The extents and limits of universality in high-dimensional generalized linear estimation*](https://arxiv.org/abs/xxxxx). 
 
 <p float="left">
-  <img src="https://github.com/lucpoisson/GaussianMixtureUniversality/blob/main/figures/universality.pdf" height="470" />
+  <img src="https://github.com/lucpoisson/GaussianMixtureUniversality/blob/main/figures/universality.png" height="470" />
 </p>
 . 
 
