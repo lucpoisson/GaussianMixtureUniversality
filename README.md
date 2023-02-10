@@ -9,7 +9,7 @@ Repository for the paper [*Is Gaussian data all you need? The extents and limits
 
 ## Structure
 
-In this repository we provide the code and some guided example to help the reader to reproduce the figures of the paper [1]. The repository is structured as follows.
+In this repository we provide the code and some guided example to help the reader to reproduce the figures of the paper [1]. The repository is structured as follows:
 
 | File                          | Description                                                                                                                                                    |
 |-------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
