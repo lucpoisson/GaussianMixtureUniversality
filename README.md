@@ -13,8 +13,8 @@ In this repository we provide the code and some guided example to help the reade
 
 | File                          | Description                                                                                                                                                    |
 |-------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|/Universality| Notebooks discussing the universality results presented.           |
-| /Non_Universality |  Notebooks discussing the non-universality results presented.                  |
+|/Universality| Notebooks discussing universality results.           |
+| /Non_Universality |  Notebooks discussing non-universality results.                  |
 
 
 The notebooks are self-explanatory and the repository will be updated with cleaned code in the shortest delay.
