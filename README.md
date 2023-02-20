@@ -1,6 +1,6 @@
 # GaussianMixtureUniversality
 
-Repository for the paper [*Is Gaussian data all you need? The extents and limits of universality in high-dimensional generalized linear estimation*](https://arxiv.org/abs/2302.08923). 
+Repository for the paper [*Are Gaussian data all you need? Extents and limits of universality in high-dimensional generalized linear estimation*](https://arxiv.org/abs/2302.08923). 
 
 <p float="left">
   <img src="https://github.com/lucpoisson/GaussianMixtureUniversality/blob/main/figures/universality.png" height="470" />
@@ -26,7 +26,7 @@ The numerical investigation for the analysis of real dataset has been inspired b
 
 ## References
 
-[1] *Is Gaussian data all you need? The extents and limits of universality in high-dimensional generalized linear estimation*,
+[1] *Are Gaussian data all you need? Extents and limits of universality in high-dimensional generalized linear estimation*,
 Luca Pesce, Florent Krzakala, Bruno Loureiro, Ludovic Stephan [arXiv: 2302.08923 ](https://arxiv.org/abs/2302.08923)[stat.ML]
 
 
