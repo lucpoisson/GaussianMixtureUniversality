@@ -30,5 +30,5 @@ The numerical investigation for the analysis of real dataset has been inspired b
 Luca Pesce, Florent Krzakala, Bruno Loureiro, Ludovic Stephan [arXiv: 2302.08923 ](https://arxiv.org/abs/2302.08923)[math.ST]
 
 
-[2] Gaussian Universality of Linear Classifiers with Random Labels in High-Dimension, Federica Gerace, Florent Krzakala, Bruno Loureiro, Ludovic Stephan, Lenka Zdeborová, arXiv:2205.13303[stat.ML]
+[2] Gaussian Universality of Linear Classifiers with Random Labels in High-Dimension, Federica Gerace, Florent Krzakala, Bruno Loureiro, Ludovic Stephan, Lenka Zdeborová, [arXiv:2205.13303 ](https://arxiv.org/abs/2205.13303) [stat.ML]
 
