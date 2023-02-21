@@ -17,7 +17,7 @@ In this repository we provide the code and some guided example to help the reade
 | /Non_Universality |  Notebooks discussing non-universality results.                  |
 
 
-The notebooks are self-explanatory and the repository will be updated with cleaned code in the shortest delay.
+The notebooks are self-explanatory.
 
 
 ## Acknowledgements
