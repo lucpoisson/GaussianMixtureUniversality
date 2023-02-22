@@ -21,7 +21,7 @@ The notebooks are self-explanatory.
 
 
 ## Acknowledgements
-The numerical investigation for the analysis of real dataset has been inspired by [2] where the authors analyze pure random label. 
+The section on the analysis of real dataset has been inspired by [2] where the authors analyze the random label setting. 
 
 
 ## References
